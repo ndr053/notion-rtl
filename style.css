@@ -1,4 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@500&display=swap');
+
 @-moz-document domain("notion.so") {
+    * {
+        font-family: 'Vazirmatn', sans-serif;
+    }
+    
     .notion-frame, .notion-sidebar, .notion-overlay-container {
         direction: rtl;
     }
