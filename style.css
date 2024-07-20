@@ -1,4 +1,4 @@
-@-moz-document domain("notion.so") {
+@-moz-document domain("notion.so"), domain("notion.site") {
     .notion-frame, .notion-sidebar, .notion-overlay-container {
         direction: rtl;
     }
