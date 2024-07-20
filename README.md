@@ -21,6 +21,6 @@ First you need to install the Stylus extension on the browser.
 [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)<br>
 [Firefox](https://addons.mozilla.org/en-CA/firefox/addon/styl-us/)
 
-Then install the style from [userstyles.org](https://userstyles.org/styles/203516/notion-rtl-full-sections)
+Then install the style from [userstyles.world](https://userstyles.world/style/17309/notion-rtl) or [userstyles.org](https://userstyles.org/styles/203516/notion-rtl-full-sections)
 
 
