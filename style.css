@@ -49,4 +49,21 @@
         direction: ltr;
     }
     
+    /* RTL support for five-level sidebar */
+    .notion-page-block > a > div {
+        padding-right: 8px!important;
+        padding-left: 8px!important;
+    }
+    .notion-outliner-team .notion-page-block > a > div {
+        padding-right: calc(8px + 8px)!important;
+    }
+    .notion-outliner-team .notion-page-block > .notion-outliner-team .notion-page-block > a > div {
+        padding-right: calc(8px + 8px + 8px)!important;
+    }
+    .notion-outliner-team .notion-page-block > .notion-outliner-team .notion-page-block > .notion-outliner-team .notion-page-block > a > div {
+        padding-right: calc(8px + 8px + 8px + 8px)!important;
+    }
+    .notion-outliner-team .notion-page-block > .notion-outliner-team .notion-page-block > .notion-outliner-team .notion-page-block > .notion-outliner-team .notion-page-block > a > div {
+        padding-right: calc(8px + 8px + 8px + 8px + 8px)!important;
+    }
 }
