@@ -101,4 +101,14 @@ domain("notion.site") {
     blockquote > div:nth-child(1) > div:nth-child(1) {
         padding-right: 14px !important;
     }
+
+    /* Block table */
+    .notion-frame .notion-collection-view-body .notion-table-view-header-row {
+        direction: rtl !important;
+        text-align: right !important;
+    }
+    .notion-frame .notion-collection-view-body .notion-table-view-row {
+        direction: rtl !important;
+        text-align: right !important;
+    }
 }
